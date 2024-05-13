@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fathah Tab</title>
+</head>
+<style>
+    body{
+        background: #000;
+        width: 80vw;
+        margin: auto;
+        color: #fff;
+        padding: 1rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+    h1{
+        color: #858585;
+    }
+    #links{
+        margin: 1rem 0;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr); 
+  grid-gap: 1.5rem;
+    }
+    a{
+        display: block;
+        color: #fff;
+        text-decoration: none;
+        padding: 1rem;
+        border: solid 1px #fff;
+        margin-bottom: 0.5rem;
+        border-radius: 0.5rem;
+        transition: scale 0.3s ease-in-out;
+    }
+    a:hover{
+        scale: 1.02;
+    }
+</style>
+
+<body>
+    <h1>My Links</h1>
+    <div id="links"></div>
+</body>
+<script src="links.js"></script>
+<script>
+const links = document.getElementById('links');
+for(const link of LINKS){
+    const a = document.createElement('a');
+    a.href = link.link;
+    a.innerText = link.name;
+    links.appendChild(a);
+}
+</script>
+
+
+</html>
