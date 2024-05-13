@@ -15,6 +15,10 @@
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         
     }
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
     h1{
         color: #858585;
     }
@@ -24,22 +28,28 @@
         grid-template-columns: repeat(5, 1fr); 
   grid-gap: 1.5rem;
     }
-    a{
+    .linkitem{
         display: block;
-        color: #fff;
-        text-decoration: none;
         padding: 1rem;
         border: solid 1px #fff;
         margin-bottom: 0.5rem;
         border-radius: 0.5rem;
         transition: scale 0.3s ease-in-out;
     }
-    a:hover{
+    .linkitem:hover{
         scale: 1.02;
+    }
+    .header{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem
     }
 </style>
 
 <body>
+    <section class="header">
+        <a href="https://github.com/fathah/chrome-new-tab/edit/main/links.js">Edit Links</a>
+    </section>
     <h1>My Links</h1>
     <div id="links"></div>
 </body>
@@ -49,6 +59,7 @@ const links = document.getElementById('links');
 for(const link of LINKS){
     const a = document.createElement('a');
     a.href = link.link;
+    a.classList.add('linkitem');
     a.innerText = link.name;
     links.appendChild(a);
 }
