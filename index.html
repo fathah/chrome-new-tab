@@ -30,20 +30,26 @@
     }
     .linkitem{
         display: block;
-        padding: 1rem;
+        padding: 0.5rem 1rem;
         border: solid 1px #fff;
         margin-bottom: 0.5rem;
         border-radius: 0.5rem;
-        transition: scale 0.3s ease-in-out;
+        transition: transform 0.3s ease-in-out;
     }
     .linkitem:hover{
-        scale: 1.02;
+        transform:translateY(0.1rem);
     }
     .header{
         display: flex;
         justify-content: space-between;
         align-items: center;
         margin-bottom: 1rem
+    }
+    .linkitem img{
+        width: 30px;
+    }
+    .linkitem span{
+        display: block;
     }
 </style>
 
@@ -60,9 +66,10 @@
 const links = document.getElementById('links');
 for(const link of LINKS){
     const a = document.createElement('a');
+    const iconLink = link.icon;
     a.href = link.link;
     a.classList.add('linkitem');
-    a.innerText = link.name;
+    a.innerHTML = "<div><img src='"+iconLink+"'/><span>"+link.name+"<h5></div>";
     links.appendChild(a);
 }
 </script>
