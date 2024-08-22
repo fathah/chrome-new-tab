@@ -8,5 +8,6 @@ const LINKS = [
      {name:"Animated Gradient", link:"https://animated-gradient-background-generator.netlify.app/", icon:"https://images.ctfassets.net/h6goo9gw1hh6/2VwHU3zc2pQLXBRA7nxOoL/4a6608bbc21f485609aee930cb76e2e2/Gradient_Background_Example.jpg"},
     {name:"NIX OS", link:"https://nixos.org/", icon:"https://nixos.org/_astro/flake-blue.Bf2X2kC4_Z1yqDoT.svg"},
     {name:"Search Console", link:"https://search.google.com/search-console", icon:"https://www.gstatic.com/search-console/scfe/search_console-128.png"},
+    {name:"Open Food Facts", link:"https://world.openfoodfacts.org/", icon:"https://world.openfoodfacts.org/images/favicon/favicon-16x16.png"},
 
 ];
