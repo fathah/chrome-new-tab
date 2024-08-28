@@ -10,6 +10,6 @@ const LINKS = [
     {name:"Search Console", link:"https://search.google.com/search-console", icon:"https://www.gstatic.com/search-console/scfe/search_console-128.png"},
     {name:"Open Food Facts", link:"https://world.openfoodfacts.org/", icon:"https://world.openfoodfacts.org/images/favicon/favicon-16x16.png"},
     {name:"Public APIs", link:"https://www.freepublicapis.com/?utm_source=ziqx.cc", icon:"https://static.vecteezy.com/system/resources/previews/029/345/984/original/api-icon-data-analytics-monitoring-setting-gear-database-icons-free-png.png"},
-    {name:"Remove Background", link:"https://bannerify.co/tools/remove-bg?utm_source=ziqx.cc", icon:"https://bannerify.co/favicon.svg"},
+    {name:"Remove Background", link:"https://bannerify.co/tools/remove-bg?utm_source=ziqx.cc", icon:"https://img.freepik.com/free-vector/pastel-watercolor-with-golden-frame_23-2148796563.jpg"},
 
 ];
