@@ -13,4 +13,7 @@ const LINKS = [
     {name:"Public APIs", link:"https://www.freepublicapis.com/?utm_source=ziqx.cc", icon:"https://static.vecteezy.com/system/resources/previews/029/345/984/original/api-icon-data-analytics-monitoring-setting-gear-database-icons-free-png.png"},
     {name:"Remove Background", link:"https://bannerify.co/tools/remove-bg?utm_source=ziqx.cc", icon:"https://img.freepik.com/free-vector/pastel-watercolor-with-golden-frame_23-2148796563.jpg"},
  {name:"Programming Ebook", link:"https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-subjects.md", icon:"https://avatars0.githubusercontent.com/u/14127308?v=4"},
+    {name:"Driver.js", link:"https://driverjs.com/?utm_source=ziqx.cc", icon:"https://driverjs.com/driver.svg"},
+
+
 ];
