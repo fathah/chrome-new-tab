@@ -17,5 +17,7 @@ const LINKS = [
     {name:"Gen AI Tutorials", link:"https://github.com/NirDiamant/GenAI_Agents/?utm_source=ziqx.cc", icon:"https://static.vecteezy.com/system/resources/previews/010/518/719/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg"},
     {name:"Tailblocks", link:"https://tailblocks.cc/", icon:"https://tailblocks.cc/favicon.png"},
  {name:"MerakiUI", link:"https://merakiui.com/", icon:"https://merakiui.com/images/logo.svg"},
+     {name:"RX DB", link:"https://rxdb.info", icon:"https://rxdb.info/files/logo/logo.svg"},
+
 
 ];
