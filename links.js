@@ -19,6 +19,8 @@ const LINKS = [
  {name:"MerakiUI", link:"https://merakiui.com/", icon:"https://merakiui.com/images/logo.svg"},
      {name:"RX DB", link:"https://rxdb.info", icon:"https://rxdb.info/files/logo/logo.svg"},
      {name:"Mantine", link:"https://mantine.dev/", icon:"https://mantine.dev/favicon.svg"},
+         {name:"OpenRouter AI API", link:"https://openrouter.ai/", icon:"https://openrouter.ai/favicon.ico"},
+
 
 
 ];
