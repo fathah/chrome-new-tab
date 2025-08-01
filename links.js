@@ -23,6 +23,9 @@ const LINKS = [
          {name:"GeoJS API", link:"https://get.geojs.io/v1/ip/geo.json", icon:"https://www.geojs.io/favicon/v1/apple-touch-icon.png"},
              {name:"Glass CSS", link:"https://glass3d.dev/?utm_source=ziqx.cc", icon:"https://www.geojs.io/favicon/v1/a"},
                  {name:"Transparent Textures", link:"https://transparenttextures.com/?utm_source=ziqx.cc", icon:"https://transparenttextures.com/favicon.png"},
+                 {name:"Iconify", link:"https://iconify.design/?utm_source=ziqx.cc", icon:"https://iconify.design/favicon.svg"},
+
+   
 
 
     
