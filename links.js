@@ -26,6 +26,8 @@ const LINKS = [
                  {name:"Transparent Textures", link:"https://transparenttextures.com/?utm_source=ziqx.cc", icon:"https://transparenttextures.com/favicon.png"},
                  {name:"Iconify", link:"https://iconify.design/?utm_source=ziqx.cc", icon:"https://iconify.design/favicon.svg"},
                      {name:"LimeWire", link:"https://limewire.com/?utm_source=ziqx.cc", icon:"https://limewire.com/apple-touch-icon.png"},
+                         {name:"MagicUI", link:"https://magicui.design/?utm_source=ziqx.cc", icon:"https://magicui.design/favicon.ico"},
+
 
 
    
