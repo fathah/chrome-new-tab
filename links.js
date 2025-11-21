@@ -27,11 +27,11 @@ const LINKS = [
                  {name:"Iconify", link:"https://iconify.design/?utm_source=ziqx.cc", icon:"https://iconify.design/favicon.svg"},
                      {name:"LimeWire", link:"https://limewire.com/?utm_source=ziqx.cc", icon:"https://limewire.com/apple-touch-icon.png"},
                          {name:"MagicUI", link:"https://magicui.design/?utm_source=ziqx.cc", icon:"https://magicui.design/favicon.ico"},
+                         {name:"GenAI Course", link:"https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course", icon:"https://images.squarespace-cdn.com/content/v1/5bfd6f322487fdb33ce53474/7f13c7ed-bd94-4da0-adfb-8adbacc96450/favicon.ico"},
 
 
 
    
-
 
     
 
