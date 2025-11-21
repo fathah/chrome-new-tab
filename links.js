@@ -1,6 +1,6 @@
 const LINKS = [
-    {name:"Project Starters", link:"https://github.com/fathah/project-starters/", icon:"https://github.com/fluidicon.png"},
-    {name:"Roadmap.sh", link:"https://roadmap.sh/", icon:"https://roadmap.sh/manifest/icon32.png"},
+    {name:"Project Starters", link:"https://github.com/fathah/project-starters/?utm_source=ziqx.cc", icon:"https://github.com/fluidicon.png"},
+    {name:"Roadmap.sh", link:"https://roadmap.sh/?utm_source=ziqx.cc", icon:"https://roadmap.sh/manifest/icon32.png"},
         {name:"React Icons", link:"https://react-icons.github.io/react-icons/search/", icon:"https://react-icons.github.io/react-icons/favicon.png"},
  {name:"Material Icons", link:"https://fonts.google.com/icons", icon:"https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg"},
  {name:"Line Icons", link:"https://icons8.com/line-awesome", icon:"https://maxst.icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png"},
@@ -14,7 +14,7 @@ const LINKS = [
     {name:"Driver.js", link:"https://driverjs.com/?utm_source=ziqx.cc", icon:"https://driverjs.com/driver.svg"},
     {name:"Gen AI Tutorials", link:"https://github.com/NirDiamant/GenAI_Agents/?utm_source=ziqx.cc", icon:"https://static.vecteezy.com/system/resources/previews/010/518/719/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg"},
     {name:"Tailblocks", link:"https://tailblocks.cc/", icon:"https://tailblocks.cc/favicon.png"},
- {name:"MerakiUI", link:"https://merakiui.com/", icon:"https://merakiui.com/images/logo.svg"},
+ {name:"MerakiUI", link:"https://merakiui.com/?utm_source=ziqx.cc", icon:"https://merakiui.com/images/logo.svg"},
      {name:"RX DB", link:"https://rxdb.info", icon:"https://rxdb.info/files/logo/logo.svg"},
      {name:"Mantine", link:"https://mantine.dev/", icon:"https://mantine.dev/favicon.svg"},
          {name:"OpenRouter AI API", link:"https://openrouter.ai/", icon:"https://openrouter.ai/favicon.ico"},
@@ -25,6 +25,7 @@ const LINKS = [
                      {name:"LimeWire", link:"https://limewire.com/?utm_source=ziqx.cc", icon:"https://limewire.com/apple-touch-icon.png"},
                          {name:"MagicUI", link:"https://magicui.design/?utm_source=ziqx.cc", icon:"https://magicui.design/favicon.ico"},
                          {name:"GenAI Course", link:"https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course", icon:"https://images.squarespace-cdn.com/content/v1/5bfd6f322487fdb33ce53474/7f13c7ed-bd94-4da0-adfb-8adbacc96450/favicon.ico"},
+                         {name:"ChromaDB", link:"https://www.trychroma.com/?utm_source=ziqx.cc", icon:"https://www.trychroma.com/img/favicon.ico"},
 
 
 
