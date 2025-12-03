@@ -26,6 +26,7 @@ const LINKS = [
                          {name:"MagicUI", link:"https://magicui.design/?utm_source=ziqx.cc", icon:"https://magicui.design/favicon.ico"},
                          {name:"GenAI Course", link:"https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course", icon:"https://images.squarespace-cdn.com/content/v1/5bfd6f322487fdb33ce53474/7f13c7ed-bd94-4da0-adfb-8adbacc96450/favicon.ico"},
                          {name:"ChromaDB", link:"https://www.trychroma.com/?utm_source=ziqx.cc", icon:"https://www.trychroma.com/img/favicon.ico"},
+                         {name:"Svg2React", link:"https://react-svgr.com/playground/?utm_source=ziqx.cc", icon:"https://react-svgr.com/favicon-32x32.png"},
 
 
 
