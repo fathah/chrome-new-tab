@@ -28,6 +28,7 @@ const LINKS = [
                          {name:"ChromaDB", link:"https://www.trychroma.com/?utm_source=ziqx.cc", icon:"https://www.trychroma.com/img/favicon.ico"},
                          {name:"Svg2React", link:"https://react-svgr.com/playground/?utm_source=ziqx.cc", icon:"https://react-svgr.com/favicon-32x32.png"},
 
+                         {name:"AI Skills", link:"https://skills.sh/?utm_source=ziqx.cc", icon:"https://skills.sh/agents/cursor.svg"},
 
 
    
