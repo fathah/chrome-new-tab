@@ -1,7 +1,7 @@
 const LINKS = [
     {name:"Project Starters", link:"https://github.com/fathah/project-starters/?utm_source=ziqx.cc", icon:"https://github.com/fluidicon.png"},
     {name:"Roadmap.sh", link:"https://roadmap.sh/?utm_source=ziqx.cc", icon:"https://roadmap.sh/manifest/icon32.png"},
-        {name:"React Icons", link:"https://react-icons.github.io/react-icons/search/", icon:"https://react-icons.github.io/react-icons/favicon.png"},
+   {name:"Land Book", link:"https://land-book.com/?utm_source=ziqx.cc", icon:"https://land-book.com/images/favicon.png"},
  {name:"Material Icons", link:"https://fonts.google.com/icons", icon:"https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg"},
  {name:"Line Icons", link:"https://icons8.com/line-awesome", icon:"https://maxst.icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png"},
      {name:"Animated Gradient", link:"https://animated-gradient-background-generator.netlify.app/", icon:"https://images.ctfassets.net/h6goo9gw1hh6/2VwHU3zc2pQLXBRA7nxOoL/4a6608bbc21f485609aee930cb76e2e2/Gradient_Background_Example.jpg"},
