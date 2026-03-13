@@ -30,7 +30,8 @@ const LINKS = [
                          {name:"AI Skills", link:"https://skills.sh/?utm_source=ziqx.cc", icon:"https://skills.sh/agents/cursor.svg"},
 {name:"Agency Agents", link:"https://github.com/msitarzewski/agency-agents?utm_source=ziqx.cc", icon:"https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg"},
 
-   
+   {name:"Website Roast", link:"https://tear-my-site-down.vercel.app/?utm_source=ziqx.cc", icon:""},
+
 
     
 
