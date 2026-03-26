@@ -31,6 +31,7 @@ const LINKS = [
 {name:"Agency Agents", link:"https://github.com/msitarzewski/agency-agents?utm_source=ziqx.cc", icon:"https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg"},
 
    {name:"Website Roast", link:"https://tear-my-site-down.vercel.app/?utm_source=ziqx.cc", icon:""},
+   {name:"MD Email Builder", link:"https://www.emailmd.dev/builder/?utm_source=ziqx.cc", icon:"https://www.emailmd.dev/favicon.ico?favicon.2e3d8fc2.ico"},
 
 
     
