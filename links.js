@@ -32,9 +32,8 @@ const LINKS = [
 
    {name:"Website Roast", link:"https://tear-my-site-down.vercel.app/?utm_source=ziqx.cc", icon:""},
    {name:"MD Email Builder", link:"https://www.emailmd.dev/builder/?utm_source=ziqx.cc", icon:"https://www.emailmd.dev/favicon.ico?favicon.2e3d8fc2.ico"},
+       {name:"Phosphor Icons", link:"https://phosphoricons.com/?utm_source=ziqx.cc", icon:"https://phosphoricons.com/favicon-192.png"},
 
-
-    
 
     
 
