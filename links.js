@@ -34,6 +34,9 @@ const LINKS = [
    {name:"MD Email Builder", link:"https://www.emailmd.dev/builder/?utm_source=ziqx.cc", icon:"https://www.emailmd.dev/favicon.ico?favicon.2e3d8fc2.ico"},
        {name:"Phosphor Icons", link:"https://phosphoricons.com/?utm_source=ziqx.cc", icon:"https://phosphoricons.com/favicon-192.png"},
        {name:"Phosphor Icons", link:"https://getdesign.md/?utm_source=ziqx.cc", icon:"https://getdesign.md/favicon.svg"},
+       {name:"Jakub Antalik", link:"https://jakubantalik.com/?utm_source=ziqx.cc", icon:"https://jakubantalik.com/favicon.svg"},
+
+    
 
 
     
