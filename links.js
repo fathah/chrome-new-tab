@@ -35,7 +35,9 @@ const LINKS = [
        {name:"Phosphor Icons", link:"https://phosphoricons.com/?utm_source=ziqx.cc", icon:"https://phosphoricons.com/favicon-192.png"},
        {name:"Phosphor Icons", link:"https://getdesign.md/?utm_source=ziqx.cc", icon:"https://getdesign.md/favicon.svg"},
        {name:"Libraries Dev", link:"https://libraries.dev/?utm_source=ziqx.cc", icon:"https://libraries.dev/assets/favicon.svg"},
+       {name:"React Bits", link:"https://reactbits.dev/c/micro?utm_source=ziqx.cc", icon:"https://reactbits.dev/apple-touch-icon.png"},
 
+    
     
 
 
